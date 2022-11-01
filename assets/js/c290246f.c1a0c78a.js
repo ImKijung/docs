@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[6147],{9755:e=>{e.exports=JSON.parse('{"label":"Unix","permalink":"/docs/tags/unix","allTagsPath":"/docs/tags","count":1,"items":[{"id":"apm/php-os/freebsd","title":"FreeBSD","description":"FreeBSD","permalink":"/docs/apm/php-os/freebsd"}]}')}}]);
