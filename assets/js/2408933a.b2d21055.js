@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[1164],{7426:e=>{e.exports=JSON.parse('{"label":"CentOS","permalink":"/docs/tags/cent-os","allTagsPath":"/docs/tags","count":1,"items":[{"id":"apm/php-os/redhat-centos","title":"RedHat/CentOS","description":"RedHat/CentOS","permalink":"/docs/apm/php-os/redhat-centos"}]}')}}]);

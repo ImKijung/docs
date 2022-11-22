@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[9294],{58817:a=>{a.exports=JSON.parse('{"label":"Amazon Linux","permalink":"/docs/tags/amazon-linux","allTagsPath":"/docs/tags","count":1,"items":[{"id":"apm/php-os/amazon-linux","title":"Amazon Linux","description":"Amazon Linux","permalink":"/docs/apm/php-os/amazon-linux"}]}')}}]);
