@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[27918],{18573:(e,n,t)=>{t.d(n,{Z:()=>u});var r=t(67294),a=t(90814);function u(e){return r.createElement(r.Fragment,null,r.createElement(a.Z,e))}},95113:(e,n,t)=>{t.d(n,{Z:()=>a});var r=t(67294);t(84881);function a(e){return r.createElement(r.Fragment,null)}}}]);
