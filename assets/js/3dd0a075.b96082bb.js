@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[90922],{32783:i=>{i.exports=JSON.parse('{"label":"Alpine Linux","permalink":"/tags/alpine-linux","allTagsPath":"/tags","count":1,"items":[{"id":"apm/php-os/alpine-linux","title":"Alpine Linux","description":"Alpine Linux","permalink":"/apm/php-os/alpine-linux"}]}')}}]);
