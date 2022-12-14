@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhatap_origin=self.webpackChunkwhatap_origin||[]).push([[28389],{16513:a=>{a.exports=JSON.parse('{"label":"Ubuntu","permalink":"/tags/ubuntu","allTagsPath":"/tags","count":1,"items":[{"id":"apm/php-os/debian-ubuntu","title":"Debian/Ubuntu","description":"Debian/Ubuntu","permalink":"/apm/php-os/debian-ubuntu"}]}')}}]);
